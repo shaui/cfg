@@ -1,5 +1,5 @@
 classes= 2
-train = /content/dataset/train.txt
-valid = /content/dataset/valid.txt
+train = /content/cfg/train.txt
+valid = /content/cfg/valid.txt
 names = /content/cfg/obj.names
 backup = /content/cfg/weights/
